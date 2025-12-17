@@ -19,5 +19,5 @@ The dashboard provides a clear view of retail operations, helping businesses mak
 
   
   
-  The dashboard allows users to identify top customers by purchase frequency or spending, analyze product performance by highlighting best-selling items and categories, and examine payment trends to see which         methods are most popular. Revenue analysis is also included, with visuals showing total sales, discounts applied, and average order values. 
-  Charts such as bar graphs, pie charts, line charts, and matrix tables make the data easy to interpret and provide actionable insights for retail decision-making.
+ 📌 The dashboard allows users to identify top customers by purchase frequency or spending, analyze product performance by highlighting best-selling items and categories, and examine payment trends to see which          methods are most popular. Revenue analysis is also included, with visuals showing total sales, discounts applied, and average order values. 
+     Charts such as bar graphs, pie charts, line charts, and matrix tables make the data easy to interpret and provide actionable insights for retail decision-making.
